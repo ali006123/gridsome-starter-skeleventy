@@ -8,7 +8,7 @@
           <a href="https://www.gridsome.org">Gridsome</a> starter built with
           <a href="https://tailwindcss.com">TailwindCSS</a>.
         </p>
-        <h2 class="text-3xl">Features</h2>
+        <h2 class="text-3xl">Feas</h2>
         <ul class="mb-12 list-disc pl-4">
           <li>Build sites faster with the power of Gridsome, TailwindCSS and SCSS</li>
           <li>Image lazyloading via gridsome builtin functionality</li>
